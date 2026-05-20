@@ -17,16 +17,6 @@ header h1 {
     max-width:900px;
     margin:30px auto;
 }
-nav {
-background-color: #333;
-text-align: center;
-padding: 10px;
-}
-nav a {
-color: white;
-text-decoration: none;
-margin: 15px;
-}
 section {
 background-color: white;
 margin: 30px;
